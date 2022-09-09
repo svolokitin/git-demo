@@ -1,5 +1,3 @@
-C:\Users\Public\Documents\Wondershare\ - PDF_Editor
-
 netsh wlan show profiles name="name_wlan" key=clear
 
 win+ctrl+shift+b - reset graphics card
