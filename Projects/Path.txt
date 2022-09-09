@@ -7,7 +7,6 @@ viewanalytics - answer at google form
 
 trash3rb0y
 
-GL3GR-ZL5KF-RMM00 | The Sunken Hero
 
 echo some content > filename.txt - create empty file.*
 del name_file.* - delete file
