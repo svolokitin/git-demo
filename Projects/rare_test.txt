@@ -25,3 +25,6 @@ Sequence
 2.Значение.
 3.Результат в виде графа например
 4.Должно всё работать на алгоритме из статьи мужика
+
+<h4>Used frameworks</h4>
+<img width="50" height="50" src=https://ru.vuejs.org/images/logo.png alt="logo">
